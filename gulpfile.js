@@ -21,7 +21,8 @@ var paths = {
   },
   jsLibs: {
     entryPoints: [
-      'bower_components/bootstrap/dist/js/bootstrap.min.js'
+      'bower_components/bootstrap/dist/js/bootstrap.min.js',
+      'bower_components/sortable/js/sortable.min.js'
     ],
   },
   target: 'public/dist/',

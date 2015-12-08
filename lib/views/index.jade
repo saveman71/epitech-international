@@ -1,21 +1,39 @@
 extend base
 
 block layout
-  .container
+  .container-fluid
     .row
-      h1 Placeholder H1
 
-      table.table.table-striped
-        thead
-          td Login
-          td Gpa
-          td Tepitech
-          td Toefl
-          td Year
-        for user in users
-          tr
-            td=user.login
-            td=user.gpa
-            td=user.tepitechScore
-            td=user.toeflScore
-            td=user.year
+      .col-sm-12
+        .panel.panel-default
+          .panel-heading.clearfix
+            h1.pull-left Data
+            a.btn.btn-success.pull-right(href='/profile', style="margin-top: 28px;") Edit profile
+          .panel-body
+            table.table.sortable-theme-bootstrap(data-sortable="true")
+              thead
+                tr
+                  th Login
+                  th GPA
+                  th Tepitech
+                  th Toefl
+                  th Wish 1
+                  th Wish 2
+                  th Year
+              for user in users
+                tr
+                  td=user.login
+                  td=user.gpa
+                  td=user.tepitechScore
+                  td=user.toeflScore
+                  if user.universities && user.universities[0]
+                    td=user.universities[0].name
+                  else
+                    td
+                  if user.universities && user.universities[1]
+                    td=user.universities[1].name
+                  else
+                    td
+                  td=user.year
+
+

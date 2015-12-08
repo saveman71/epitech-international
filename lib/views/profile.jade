@@ -3,24 +3,35 @@ extend base
 block layout
   .container
     .row
-      .panel-body
-      .col-md-3
-        form(role='form' method='POST')
-          fieldset
-            if error
-              .alert.alert-danger=error
-            //.form-group
-              label(for="wish1") Wish 1
-              input.form-control(placeholder='', id='wish1', type='text', autofocus='', value=)
-            //.form-group
-              label(for="wish2") Wish 2
-              input.form-control(placeholder='', id='wish2', type='text', autofocus='', value=)
-            //.form-group
-              label(for="wish3") Wish 3
-              input.form-control(placeholder='', id='wish3', type='text', autofocus='', value=)
-            //.form-group
-              label(for="wish4") Wish 4
-              input.form-control(placeholder='', id='wish4', type='text', autofocus='', value=)
+      h1 Edit profile
+      form(role='form' method='POST')
+        fieldset
+          if error
+            .alert.alert-danger=error
+
+          .col-md-6
+            mixin selectUniversity(nb)
+              .form-group
+                label(for='wish' + nb ) Wish #{nb}
+                select.form-control.selectpicker(data-live-search="true" data-show-subtext="true" data-size="8" name='wish' + nb, id='wish' + nb, type='text', autofocus='', value=)
+                  if user.universities.length >= nb
+                    option(disabled) Select an option
+                  else
+                    option(disabled selected) Select an option
+
+                  for university in universities
+                    if user.universities.length >= nb && user.universities[nb - 1]._id.toString() === university._id.toString()
+                      option(value=university._id data-subtext=university.country selected)=university.name
+                    else
+                      option(value=university._id data-subtext=university.country)=university.name
+
+            +selectUniversity(1)
+            +selectUniversity(2)
+            +selectUniversity(3)
+            +selectUniversity(4)
+
+          .col-md-6
+
             .form-group
               label(for='login') Login
               input.form-control(name='login', id='login', type='text', autofocus='', value=user.login, disabled)
@@ -33,4 +44,5 @@ block layout
             .form-group
               label(for='toeflScore') TOEFL Score
               input.form-control(name='toeflScore', id='toeflScore', type='text', autofocus='', value=user.toeflScore)
-            button.btn.btn-lg.btn-success.btn-block(type='submit') Save
+
+          button.btn.btn-lg.btn-success(type='submit') Save
