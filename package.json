@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bin/server",
-    "make": "node node_modules/gulp/bin/gulp.js build",
+    "make": "node node_modules/gulp/bin/gulp.js build; node bin/seeds.js",
     "postinstall": "node node_modules/bower/bin/bower install; npm run-script make",
     "lint": "jshint assets/js/ app/ test/ app.js && jscs assets/js/ app/ test/ app.js"
   },
