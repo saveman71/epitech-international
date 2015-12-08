@@ -22,14 +22,15 @@ block layout
               label(for="wish4") Wish 4
               input.form-control(placeholder='', id='wish4', type='text', autofocus='', value=)
             .form-group
-              label(for="login") Login
-              input.form-control(id='login', type='text', autofocus='', value=user.login, disabled)
+              label(for='login') Login
+              input.form-control(name='login', id='login', type='text', autofocus='', value=user.login, disabled)
             .form-group
-              label(for="gpa") GPA
-              input.form-control(id='gpa', type='text', autofocus='', value=user.gpa)
+              label(for='gpa') GPA
+              input.form-control(name='gpa', id='gpa', type='text', autofocus='', value=user.gpa)
             .form-group
-              label(for="tepitechScore") Tepitech Score
-              input.form-control(id='tepitechScore', type='text', autofocus='', value=user.tepitechScore)
+              label(for='tepitechScore') Tepitech Score
+              input.form-control(name='tepitechScore', id='tepitechScore', type='text', autofocus='', value=user.tepitechScore)
             .form-group
-              label(for="toeflScore") TOEFL Score
-              input.form-control(id='toeflScore', type='text', autofocus='', value=user.toeflScore)
+              label(for='toeflScore') TOEFL Score
+              input.form-control(name='toeflScore', id='toeflScore', type='text', autofocus='', value=user.toeflScore)
+            button.btn.btn-lg.btn-success.btn-block(type='submit') Save
