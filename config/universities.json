@@ -1,0 +1,416 @@
+[
+  {
+    "country": "Afrique du Sud",
+    "name": "Nelson Mandela Metropolitan University",
+    "city": "Port Elizabeth",
+    "deptName": "Faculty of Science -\n Department of Computer\n Science and Information Systems",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 10
+  },
+  {
+    "country": "Brésil",
+    "name": "PUC Minas",
+    "city": "Belo Horizonte",
+    "deptName": "Unidad Coração Eucarístico : Ciência da Computação\n Unidad Barreiro : Ciência da Computação",
+    "language": "Portugais",
+    "diploma": "",
+    "slots": 10
+  },
+  {
+    "country": "Brésil",
+    "name": "PUC Rio",
+    "city": "Rio de Janeiro",
+    "deptName": "Departamento de Informatica",
+    "language": "Portugais",
+    "diploma": "",
+    "slots": 3
+  },
+  {
+    "country": "Canada",
+    "name": "Université Concordia",
+    "city": "Montréal",
+    "deptName": "Department of Electrical &\n Computer Engineering,\n Department of Computer\n Science and Software Engineering",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 5
+  },
+  {
+    "country": "Canada",
+    "name": "Université Laval",
+    "city": "Québec",
+    "deptName": "Faculté des sciences et de génie - Département\n d'informatique et de génie\n logiciel",
+    "language": "Français",
+    "diploma": "Certificat sur mesure en technologies de\n l’information",
+    "slots": 20
+  },
+  {
+    "country": "Canada",
+    "name": "Université du Québec à Rimouski",
+    "city": "Rimouski",
+    "deptName": "Département de mathématiques, informatique et génie",
+    "language": "Français",
+    "diploma": "Majeure en informatique",
+    "slots": 30
+  },
+  {
+    "country": "Mexique",
+    "name": "Tecnológico de Monterrey",
+    "city": "Guadalajara",
+    "deptName": "Instituto Tecnológico y de\n Estudios Superiores de Monterrey",
+    "language": "Espagnol",
+    "diploma": "",
+    "slots": 20
+  },
+  {
+    "country": "Mexique",
+    "name": "Tecnológico de Monterrey",
+    "city": "Querétaro",
+    "deptName": "Instituto Tecnológico y de\n Estudios Superiores de Monterrey",
+    "language": "Espagnol",
+    "diploma": "",
+    "slots": 6
+  },
+  {
+    "country": "USA",
+    "name": "California State University, Long Beach",
+    "city": "Long Beach (CA)",
+    "deptName": "College of Continuing and\n Professional Education\n American Language Institute",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 40
+  },
+  {
+    "country": "USA",
+    "name": "University of California, Berkeley (Summer Session possible après CSULB)",
+    "city": "Berkeley (CA)",
+    "deptName": "Berkeley Summer Sessions",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 5
+  },
+  {
+    "country": "USA",
+    "name": "University of California, Berkeley (Entrepreneurship course)",
+    "city": "Berkeley (CA)",
+    "deptName": "Berkeley Extension -\n Entrepreneurship course",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": null
+  },
+  {
+    "country": "USA",
+    "name": "California State University, San Marcos",
+    "city": "San Marcos (CA)",
+    "deptName": "American Language and\n Culture Institute – Computer Science Department",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 35
+  },
+  {
+    "country": "USA",
+    "name": "University of California, San Diego",
+    "city": "San Diego (CA)",
+    "deptName": "UCSD Extension International Programs – UPS",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 10
+  },
+  {
+    "country": "USA",
+    "name": "Brockport College, State University of New York",
+    "city": "Brockport (NY)",
+    "deptName": "Department of Computer\n Science Department of\n Business and Economics",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 15
+  },
+  {
+    "country": "USA",
+    "name": "Wayne State University",
+    "city": "Detroit (MI)",
+    "deptName": "Department of Computer Science",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 5
+  },
+  {
+    "country": "Australie",
+    "name": "Australian Catholic University",
+    "city": "Sydney",
+    "deptName": "Faculty of Business - North Sydney Campus",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 50
+  },
+  {
+    "country": "Australie",
+    "name": "Royal Melbourne Institute of Technology",
+    "city": "Melbourne",
+    "deptName": "School of Computer Science and IT",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 15
+  },
+  {
+    "country": "Chine",
+    "name": "Beijing Jiaotong University",
+    "city": "Beijing",
+    "deptName": "School of Software Engineering",
+    "language": "Anglais",
+    "diploma": "Master’s Degree in Software Engineering",
+    "slots": 120
+  },
+  {
+    "country": "Chine",
+    "name": "Tongji University",
+    "city": "Shanghai",
+    "deptName": "School of Software Engineering",
+    "language": "Anglais",
+    "diploma": "Master’s Degree in Software Engineering",
+    "slots": 30
+  },
+  {
+    "country": "Chine",
+    "name": "Tsinghua university",
+    "city": "Beijing",
+    "deptName": "Computer Science & Technology Department",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 10
+  },
+  {
+    "country": "Chine",
+    "name": "Tianjin University",
+    "city": "Tianjin",
+    "deptName": "School of Software Engineering",
+    "language": "Anglais",
+    "diploma": "Master Degree in Software Engineering",
+    "slots": 15
+  },
+  {
+    "country": "Hong Kong",
+    "name": "Hong Kong University of Science and Technology",
+    "city": "Hong Kong",
+    "deptName": "School of Engineering",
+    "language": "Anglais",
+    "diploma": "Master of Science in\n Information\n Technology",
+    "slots": 6
+  },
+  {
+    "country": "Corée du Sud",
+    "name": "Chung Ang University",
+    "city": "Séoul",
+    "deptName": "School of Computer Science and Engineering",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 50
+  },
+  {
+    "country": "Corée du Sud",
+    "name": "Keimyung University",
+    "city": "Daegu",
+    "deptName": "Department of Game and Mobile Contents",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 60
+  },
+  {
+    "country": "Corée du Sud",
+    "name": "Konkuk Univeristy",
+    "city": "Seoul",
+    "deptName": "Department of Computer Science",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 4
+  },
+  {
+    "country": "Inde",
+    "name": "Manipal University",
+    "city": "Manipal",
+    "deptName": "Manipal Institute of\n Technology & Manipal\n Centre for Information Science",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 20
+  },
+  {
+    "country": "Inde",
+    "name": "University of Delhi",
+    "city": "New Delhi",
+    "deptName": "Department of Computer Science",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 4
+  },
+  {
+    "country": "Japon",
+    "name": "Ritsumeikan University",
+    "city": "Kusatsu (Shiga)",
+    "deptName": "Graduate School of\n Information Science and\n Engineering (GSISE)",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 2
+  },
+  {
+    "country": "Malaisie",
+    "name": "Universiti Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "deptName": "Malaysian Institute of Information Technology",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 10
+  },
+  {
+    "country": "Thaïlande",
+    "name": "Thammasat University",
+    "city": "Bangkok",
+    "deptName": "Sirindhorn International Institute of Technology",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 5
+  },
+  {
+    "country": "Bahreïn",
+    "name": "Ahlia University",
+    "city": "Manama",
+    "deptName": "College of Information Technology",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 100
+  },
+  {
+    "country": "Allemagne",
+    "name": "Cologne University of Applied Sciences",
+    "city": "Gummersbach",
+    "deptName": "Faculty for Computer Science and Engineering Science",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 3
+  },
+  {
+    "country": "Angleterre",
+    "name": "Kent University",
+    "city": "Canterbury",
+    "deptName": "School of Computing",
+    "language": "Anglais",
+    "diploma": "-MSc Advanced\n Computer Science\n (Computational\n Intelligence)\n -MSc Computing and\n Entrepreneurship",
+    "slots": 48
+  },
+  {
+    "country": "Danemark",
+    "name": "Roskilde University",
+    "city": "Roskilde",
+    "deptName": "Department of\n Communication, Business &\n Information Technologies",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 2
+  },
+  {
+    "country": "Espagne",
+    "name": "Universidad de Cádiz",
+    "city": "Cádiz",
+    "deptName": "Escuela Superior de Ingenieria de Cadiz",
+    "language": "Espagnol",
+    "diploma": "",
+    "slots": 3
+  },
+  {
+    "country": "Espagne",
+    "name": "Universidad de Huelva",
+    "city": "Huelva",
+    "deptName": "Escuela Politécnica Superior -\n Departamento de Ingeniería\n Electrónica, Sistemas\n Informáticos y Automática",
+    "language": "Espagnol",
+    "diploma": "",
+    "slots": 3
+  },
+  {
+    "country": "Finlande",
+    "name": "Laurea University of Applied Sciences",
+    "city": "Espoo",
+    "deptName": "Business Information Technology",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 5
+  },
+  {
+    "country": "Irlande",
+    "name": "Dublin Institute of Technology",
+    "city": "Dublin",
+    "deptName": "College of Business",
+    "language": "Anglais",
+    "diploma": "Continuing Professional\n Development Diploma\n (certif.)",
+    "slots": 18
+  },
+  {
+    "country": "Irlande",
+    "name": "Griffith Dublin College",
+    "city": "Dublin",
+    "deptName": "Faculty of Computing Science",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 45
+  },
+  {
+    "country": "Irlande",
+    "name": "Dublin City University",
+    "city": "Dublin",
+    "deptName": "School of Computing",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 20
+  },
+  {
+    "country": "country-Bas",
+    "name": "The Hague University of Applied Sciences",
+    "city": "La Haye",
+    "deptName": "Faculty of IT and Design",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 5
+  },
+  {
+    "country": "Russie",
+    "name": "The Bonch-Bruevich St Petersburg State University of Telecommunications",
+    "city": "St Petersbourg",
+    "deptName": "Information Systems and Technologies",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 100
+  },
+  {
+    "country": "Russie",
+    "name": "TUSUR - Tomsk State University of Control Systems and Radioelectronics",
+    "city": "Tomsk",
+    "deptName": "Control Systems and Radioelectronics",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 10
+  },
+  {
+    "country": "Suède",
+    "name": "Stockholm University",
+    "city": "Stockholm",
+    "deptName": "Department of Computer and Systems Sciences",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 20
+  },
+  {
+    "country": "Suisse",
+    "name": "ZHAW - Zurich University of Applied Sciences",
+    "city": "Zurich",
+    "deptName": "School of Engineering",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 4
+  },
+  {
+    "country": "Suède",
+    "name": "Jönköping University",
+    "city": "Jönköping",
+    "deptName": "School of Engineering",
+    "language": "Anglais",
+    "diploma": "",
+    "slots": 40
+  }
+]
