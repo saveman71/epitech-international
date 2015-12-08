@@ -13,12 +13,6 @@ var port = process.env.PORT || 3000;
 var mongoUrl = process.env.MONGOLAB_URI ||
                process.env.MONGO_URL || "mongodb://localhost/epitech-international-" + nodeEnv;
 
-// Intra token
-if(!process.env.INTRA_TOKEN) {
-  console.error('INTRA_TOKEN must be set');
-  process.exit(1);
-}
-
 // Secret
 var secret = process.env.SECRET || 'datSuperSecret42';
 
