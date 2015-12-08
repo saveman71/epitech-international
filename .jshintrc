@@ -1,0 +1,23 @@
+{
+  "eqeqeq"        : true,
+  "latedef"       : true,
+  "newcap"        : true,
+  "noarg"         : true,
+  "noempty"       : true,
+  "nonew"         : true,
+  "plusplus"      : true,
+  "undef"         : true,
+  "strict"        : true,
+  "unused"        : true,
+  "loopfunc"      : true,
+  "expr"          : true,
+
+  "node"          : true,
+  "mocha"         : true,
+
+  "indent"        : 2,
+  "maxstatements" : 40,
+  "maxcomplexity" : 15,
+  "maxlen"        : 120,
+  "maxdepth"      : 8
+}

@@ -1,0 +1,11 @@
+doctype html
+block vars
+html(lang='en')
+  head
+    title #{title ? title + " | Epitech International Unofficial Wishes" : 'Epitech International Unofficial Wishes'}
+    link(rel='stylesheet', href='/dist/css/style.css')
+    link(rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32")
+    link(rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16")
+    block head
+  body
+    block layout

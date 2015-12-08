@@ -1,0 +1,26 @@
+{
+  "name": "epitech-international",
+  "version": "0.1.0",
+  "authors": [
+    "Antoine Bolvy <antoine.bolvy@gmail.com>"
+  ],
+  "description": "Epitech International Util",
+  "main": "app.js",
+  "keywords": [
+    "epitech",
+    "intra",
+    "planning",
+    "export"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
