@@ -2,7 +2,7 @@
 
 // Load env with dotenv from .env file
 var dotenv = require('dotenv');
-dotenv.load();
+dotenv.load({silent: true});
 
 // node_env can either be "development", "production" or "test"
 var nodeEnv = process.env.NODE_ENV || "development";
