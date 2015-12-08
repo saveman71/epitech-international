@@ -16,10 +16,25 @@ var mongoUrl = process.env.MONGOLAB_URI ||
 // Secret
 var secret = process.env.SECRET || 'datSuperSecret42';
 
+// Mailgun
+var mailgunApiKey = process.env.MAILGUN_API_KEY;
+var mailgunDomain = process.env.MAILGUN_DOMAIN;
+
+var appUrl = process.env.APP_URL;
+
+if (!appUrl) {
+  throw (new Error('APP_URL is a mandatory env var'));
+}
+
 module.exports = {
   port: port,
   // URL for mongo access
   mongoUrl: mongoUrl,
   // Secret
-  secret: secret
+  secret: secret,
+  // Mailgun api key
+  mailgunApiKey: mailgunApiKey,
+  mailgunDomain: mailgunDomain,
+  // App url
+  appUrl: appUrl
 };
