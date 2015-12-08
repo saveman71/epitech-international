@@ -1,0 +1,1793 @@
+[
+  {
+    "login": "seurre_f",
+    "gpa": 1.79,
+    "tepitechScore": 770,
+    "universities": [
+      "Ahlia University", "ZHAW - Zurich University of Applied Sciences"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "boutel_a",
+    "gpa": 1.15,
+    "tepitechScore": null,
+    "universities": [
+      "Ahlia University", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "izard_c",
+    "gpa": 1.03,
+    "tepitechScore": 810,
+    "universities": [
+      "Ahlia University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "marouf_n",
+    "gpa": 1.54,
+    "tepitechScore": 880,
+    "universities": [
+      "Ahlia University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "erdik_k",
+    "gpa": 1.81,
+    "tepitechScore": 780,
+    "universities": [
+      "Ahlia University", "Stockholm University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "denjea_s",
+    "gpa": 1.52,
+    "tepitechScore": 860,
+    "universities": [
+      "Ahlia University", "Stockholm University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "lamart_m",
+    "gpa": 1.58,
+    "tepitechScore": null,
+    "universities": [
+      "Beijing Jiaotong University", "Tsinghua university"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "goudot_f",
+    "gpa": 3.38,
+    "tepitechScore": 475,
+    "universities": [
+      "Brockport College, State University of New York", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "couill_b",
+    "gpa": 2.82,
+    "tepitechScore": 755,
+    "universities": [
+      "Brockport College, State University of New York", "Chung Ang University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "mejdi_s",
+    "gpa": 3.16,
+    "tepitechScore": 820,
+    "universities": [
+      "California State University, Long Beach", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "olsen_c",
+    "gpa": 2.83,
+    "tepitechScore": 875,
+    "universities": [
+      "California State University, Long Beach", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "signol_m",
+    "gpa": 2.82,
+    "tepitechScore": 885,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "guitte_m",
+    "gpa": 2.64,
+    "tepitechScore": 785,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "gay_k",
+    "gpa": 2.59,
+    "tepitechScore": 760,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "darnat_a",
+    "gpa": 2.58,
+    "tepitechScore": 765,
+    "universities": [
+      "California State University, Long Beach", "University of California, San Diego"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "packa_r",
+    "gpa": 2.5,
+    "tepitechScore": 835,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "dulin_m",
+    "gpa": 2.26,
+    "tepitechScore": 735,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "souffl_a",
+    "gpa": 2.32,
+    "tepitechScore": 775,
+    "universities": [
+      "California State University, Long Beach", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "chaban_c",
+    "gpa": 2.49,
+    "tepitechScore": 890,
+    "universities": [
+      "California State University, Long Beach", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "doghri_f",
+    "gpa": 2.11,
+    "tepitechScore": 755,
+    "universities": [
+      "California State University, Long Beach", "Dublin Institute of Technology"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "ambroi_s",
+    "gpa": 2.33,
+    "tepitechScore": 820,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "marche_a",
+    "gpa": 2.11,
+    "tepitechScore": 750,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "kim_n",
+    "gpa": 2.88,
+    "tepitechScore": 835,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "semine_f",
+    "gpa": 3.04,
+    "tepitechScore": 810,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "carens_p",
+    "gpa": 3.8,
+    "tepitechScore": 850,
+    "universities": [
+      "University of California, Berkeley (Entrepreneurship course)", "University of California, Berkeley (Summer Session possible après CSULB)"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "lopes_n",
+    "gpa": 3.64,
+    "tepitechScore": 830,
+    "universities": [
+      "California State University, San Marcos", "Brockport College, State University of New York"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "le-bor_d",
+    "gpa": 3.36,
+    "tepitechScore": 795,
+    "universities": [
+      "California State University, San Marcos", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "charde_c",
+    "gpa": 3.24,
+    "tepitechScore": 775,
+    "universities": [
+      "California State University, San Marcos", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "mortau_g",
+    "gpa": 2.69,
+    "tepitechScore": 800,
+    "universities": [
+      "California State University, San Marcos", "Brockport College, State University of New York"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "makusa_n",
+    "gpa": 2.54,
+    "tepitechScore": 780,
+    "universities": [
+      "California State University, San Marcos", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "pivec_c",
+    "gpa": 2.1,
+    "tepitechScore": 785,
+    "universities": [
+      "California State University, San Marcos", "Brockport College, State University of New York"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "sarda_j",
+    "gpa": 2.04,
+    "tepitechScore": 900,
+    "universities": [
+      "California State University, San Marcos", "Université du Québec à Rimouski"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "levy_b",
+    "gpa": 1.63,
+    "tepitechScore": 815,
+    "universities": [
+      "California State University, San Marcos", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "gorbat_o",
+    "gpa": 1.34,
+    "tepitechScore": 800,
+    "universities": [
+      "California State University, San Marcos", "California State University, Long Beach"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "le-bar_q",
+    "gpa": 2.75,
+    "tepitechScore": 840,
+    "universities": [
+      "California State University, San Marcos", "Brockport College, State University of New York"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bekaou_r",
+    "gpa": 2.9,
+    "tepitechScore": 810,
+    "universities": [
+      "California State University, San Marcos", "California State University, Long Beach"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "ballot_g",
+    "gpa": 3.78,
+    "tepitechScore": 895,
+    "universities": [
+      "California State University, San Marcos", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bony_m",
+    "gpa": 2.91,
+    "tepitechScore": 690,
+    "universities": [
+      "California State University, San Marcos", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "cengiz_c",
+    "gpa": 2.75,
+    "tepitechScore": 835,
+    "universities": [
+      "California State University, San Marcos", "California State University, Long Beach"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "balbo_a",
+    "gpa": 2.74,
+    "tepitechScore": 890,
+    "universities": [
+      "California State University, San Marcos", "Université du Québec à Rimouski"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "milox_t",
+    "gpa": 2.23,
+    "tepitechScore": 750,
+    "universities": [
+      "California State University, San Marcos", "California State University, Long Beach"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "qu_a",
+    "gpa": 2.2,
+    "tepitechScore": 905,
+    "universities": [
+      "California State University, San Marcos", "Beijing Jiaotong University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "nassoy_r",
+    "gpa": 2.11,
+    "tepitechScore": null,
+    "universities": [
+      "California State University, San Marcos", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "pinate_n",
+    "gpa": 2.4,
+    "tepitechScore": 840,
+    "universities": [
+      "California State University, San Marcos", "Jönköping University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "elkefi_s",
+    "gpa": 2.05,
+    "tepitechScore": 850,
+    "universities": [
+      "California State University, San Marcos", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "radoms_a",
+    "gpa": 2.76,
+    "tepitechScore": 800,
+    "universities": [
+      "Chung Ang University", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "poupon_d",
+    "gpa": 2.47,
+    "tepitechScore": 765,
+    "universities": [
+      "Chung Ang University", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "proute_k",
+    "gpa": 1.55,
+    "tepitechScore": null,
+    "universities": [
+      "Chung Ang University", "Tongji University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "pezon_v",
+    "gpa": 2.58,
+    "tepitechScore": 780,
+    "universities": [
+      "Chung Ang University", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "kauch_j",
+    "gpa": 2.89,
+    "tepitechScore": 810,
+    "universities": [
+      "Chung Ang University", "Beijing Jiaotong University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "charie_p",
+    "gpa": 1.8,
+    "tepitechScore": 905,
+    "universities": [
+      "Chung Ang University", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "planti_g",
+    "gpa": 1.79,
+    "tepitechScore": null,
+    "universities": [
+      "Chung Ang University", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "antune_r",
+    "gpa": 2.62,
+    "tepitechScore": 865,
+    "universities": [
+      "Chung Ang University", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "nait-s_l",
+    "gpa": 2.19,
+    "tepitechScore": 760,
+    "universities": [
+      "Chung Ang University", "Beijing Jiaotong University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "hug_t",
+    "gpa": 2.16,
+    "tepitechScore": null,
+    "universities": [
+      "Cologne University of Applied Sciences", "ZHAW - Zurich University of Applied Sciences"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "chasso_a",
+    "gpa": 1.66,
+    "tepitechScore": 805,
+    "universities": [
+      "Cologne University of Applied Sciences", "Chung Ang University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "salope_b",
+    "gpa": 1.7,
+    "tepitechScore": 750,
+    "universities": [
+      "Cologne University of Applied Sciences", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "nguye_g",
+    "gpa": 1.69,
+    "tepitechScore": null,
+    "universities": [
+      "Dublin City University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "woivre_t",
+    "gpa": 2.28,
+    "tepitechScore": 915,
+    "universities": [
+      "Dublin City University", "California State University, Long Beach"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "ferey_v",
+    "gpa": 1.87,
+    "tepitechScore": null,
+    "universities": [
+      "Dublin City University", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "limone_m",
+    "gpa": 2.58,
+    "tepitechScore": 730,
+    "universities": [
+      "Dublin City University", "Dublin Institute of Technology"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "odet_a",
+    "gpa": 1.88,
+    "tepitechScore": null,
+    "universities": [
+      "Dublin Institute of Technology", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "grout_r",
+    "gpa": 1.63,
+    "tepitechScore": 890,
+    "universities": [
+      "Dublin Institute of Technology", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "guiduc_a",
+    "gpa": 1.7,
+    "tepitechScore": 730,
+    "universities": [
+      "Dublin Institute of Technology", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "wautel_l",
+    "gpa": 2.06,
+    "tepitechScore": 790,
+    "universities": [
+      "Griffith Dublin College", "Dublin Institute of Technology"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "manin_d",
+    "gpa": 2.16,
+    "tepitechScore": 700,
+    "universities": [
+      "Griffith Dublin College", "Dublin City University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bayle_q",
+    "gpa": 1.68,
+    "tepitechScore": 825,
+    "universities": [
+      "Griffith Dublin College", "Chung Ang University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "florio_v",
+    "gpa": 1.66,
+    "tepitechScore": 720,
+    "universities": [
+      "Griffith Dublin College", "Beijing Jiaotong University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "vibrac_b",
+    "gpa": 1.13,
+    "tepitechScore": 785,
+    "universities": [
+      "Griffith Dublin College", "Jönköping University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "gagnai_j",
+    "gpa": 3.66,
+    "tepitechScore": 920,
+    "universities": [
+      "Hong Kong University of Science and Technology", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "grandj_y",
+    "gpa": 1.88,
+    "tepitechScore": 835,
+    "universities": [
+      "Jönköping University", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bourma_m",
+    "gpa": 1.61,
+    "tepitechScore": 800,
+    "universities": [
+      "Jönköping University", "Stockholm University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "blonde_f",
+    "gpa": 3.05,
+    "tepitechScore": 825,
+    "universities": [
+      "Jönköping University", "Laurea University of Applied Sciences"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "pradel_v",
+    "gpa": 2.15,
+    "tepitechScore": null,
+    "universities": [
+      "Jönköping University", "Université du Québec à Rimouski"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "pescha_v",
+    "gpa": 3.59,
+    "tepitechScore": 840,
+    "universities": [
+      "Keimyung University", "Chung Ang University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "le-gla_b",
+    "gpa": 3.26,
+    "tepitechScore": 935,
+    "universities": [
+      "Keimyung University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "tran_0",
+    "gpa": 2.96,
+    "tepitechScore": 810,
+    "universities": [
+      "Keimyung University", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "noel_h",
+    "gpa": 2.91,
+    "tepitechScore": 860,
+    "universities": [
+      "Keimyung University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "vanhou_a",
+    "gpa": 2.2,
+    "tepitechScore": 740,
+    "universities": [
+      "Keimyung University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "even_d",
+    "gpa": 2.79,
+    "tepitechScore": 605,
+    "universities": [
+      "Keimyung University", "Chung Ang University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "dubell_g",
+    "gpa": 2.71,
+    "tepitechScore": 830,
+    "universities": [
+      "Keimyung University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "pruvos_m",
+    "gpa": 2.67,
+    "tepitechScore": 775,
+    "universities": [
+      "Keimyung University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "zwertv_e",
+    "gpa": 2.54,
+    "tepitechScore": 810,
+    "universities": [
+      "Keimyung University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "costa_b",
+    "gpa": 2.35,
+    "tepitechScore": 775,
+    "universities": [
+      "Keimyung University", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "rousse_3",
+    "gpa": 2.35,
+    "tepitechScore": 785,
+    "universities": [
+      "Keimyung University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "courli_j",
+    "gpa": 2.18,
+    "tepitechScore": null,
+    "universities": [
+      "Keimyung University", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "force_k",
+    "gpa": 1.8,
+    "tepitechScore": null,
+    "universities": [
+      "Keimyung University", "Beijing Jiaotong University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "cantin_t",
+    "gpa": 1.78,
+    "tepitechScore": null,
+    "universities": [
+      "Keimyung University", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "lair_f",
+    "gpa": 1.6,
+    "tepitechScore": 730,
+    "universities": [
+      "Keimyung University", "Chung Ang University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "lamber_o",
+    "gpa": 1.28,
+    "tepitechScore": 755,
+    "universities": [
+      "Keimyung University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "chardo_j",
+    "gpa": 2.43,
+    "tepitechScore": 655,
+    "universities": [
+      "Keimyung University", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "lelong_t",
+    "gpa": 2.65,
+    "tepitechScore": 650,
+    "universities": [
+      "Keimyung University", "Chung Ang University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "joly_h",
+    "gpa": 1.66,
+    "tepitechScore": 850,
+    "universities": [
+      "Keimyung University", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "grasla_r",
+    "gpa": 1.29,
+    "tepitechScore": 835,
+    "universities": [
+      "Keimyung University", "Beijing Jiaotong University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "lavrut_f",
+    "gpa": 2.04,
+    "tepitechScore": 805,
+    "universities": [
+      "Keimyung University", "Beijing Jiaotong University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "cariou_b",
+    "gpa": 1.36,
+    "tepitechScore": 660,
+    "universities": [
+      "Keimyung University", "Beijing Jiaotong University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "masson_p",
+    "gpa": 1.37,
+    "tepitechScore": null,
+    "universities": [
+      "Keimyung University", "Chung Ang University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "girard_x",
+    "gpa": 0.9,
+    "tepitechScore": 810,
+    "universities": [
+      "Keimyung University", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "menuge_k",
+    "gpa": 2.15,
+    "tepitechScore": 800,
+    "universities": [
+      "Keimyung University", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "phiste_n",
+    "gpa": 3.18,
+    "tepitechScore": 965,
+    "universities": [
+      "Kent University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "jannin_m",
+    "gpa": 2.5,
+    "tepitechScore": 700,
+    "universities": [
+      "Dublin City University", "Jönköping University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "saysan_j",
+    "gpa": 2.34,
+    "tepitechScore": 840,
+    "universities": [
+      "Kent University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "hirt_r",
+    "gpa": 2.26,
+    "tepitechScore": 625,
+    "universities": [
+      "Kent University", "Jönköping University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "probol_c",
+    "gpa": 1.43,
+    "tepitechScore": 800,
+    "universities": [
+      "Kent University", "Dublin Institute of Technology"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "le-gue_n",
+    "gpa": 2.95,
+    "tepitechScore": 855,
+    "universities": [
+      "Kent University", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bonald_j",
+    "gpa": 2.33,
+    "tepitechScore": 625,
+    "universities": [
+      "Kent University", "Dublin Institute of Technology"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "cordon_b",
+    "gpa": 3.09,
+    "tepitechScore": 720,
+    "universities": [
+      "Kent University", "Stockholm University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "quivy_a",
+    "gpa": 2.06,
+    "tepitechScore": 755,
+    "universities": [
+      "Kent University", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "dugal_c",
+    "gpa": 2.31,
+    "tepitechScore": 675,
+    "universities": [
+      "Kent University", "Université du Québec à Rimouski"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "d-ambr_a",
+    "gpa": 2.62,
+    "tepitechScore": 705,
+    "universities": [
+      "Kent University", "Ahlia University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "viterb_c",
+    "gpa": 2.73,
+    "tepitechScore": 855,
+    "universities": [
+      "Kent University", "The Hague University of Applied Sciences"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "poulet_a",
+    "gpa": 3.54,
+    "tepitechScore": 795,
+    "universities": [
+      "Kent University", "Laurea University of Applied Sciences"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "porres_m",
+    "gpa": 2.04,
+    "tepitechScore": 805,
+    "universities": [
+      "Laurea University of Applied Sciences", "Stockholm University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "boutei_l",
+    "gpa": 2.63,
+    "tepitechScore": 940,
+    "universities": [
+      "Manipal University", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "lecler_i",
+    "gpa": 1.07,
+    "tepitechScore": 880,
+    "universities": [
+      "Manipal University", "Universiti Kuala Lumpur"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "buathi_q",
+    "gpa": null,
+    "tepitechScore": 820,
+    "universities": [
+      "Ritsumeikan University", "Tsinghua university"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "labey_g",
+    "gpa": 3.67,
+    "tepitechScore": 750,
+    "universities": [
+      "Ritsumeikan University", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "boucha_w",
+    "gpa": 3.21,
+    "tepitechScore": 860,
+    "universities": [
+      "Ritsumeikan University", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "tang_i",
+    "gpa": 2.81,
+    "tepitechScore": 765,
+    "universities": [
+      "Ritsumeikan University", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "gotti_q",
+    "gpa": 1.93,
+    "tepitechScore": 775,
+    "universities": [
+      "Stockholm University", "Jönköping University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "janecz_n",
+    "gpa": 3.33,
+    "tepitechScore": 825,
+    "universities": [
+      "The Hague University of Applied Sciences", "University of California, Berkeley (Entrepreneurship course)"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "gaular_e",
+    "gpa": 3.17,
+    "tepitechScore": 855,
+    "universities": [
+      "The Hague University of Applied Sciences", "Dublin City University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "devill_a",
+    "gpa": 2.77,
+    "tepitechScore": 780,
+    "universities": [
+      "The Hague University of Applied Sciences", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "vadee_s",
+    "gpa": 2.29,
+    "tepitechScore": 955,
+    "universities": [
+      "The Hague University of Applied Sciences", "Roskilde University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "lacour_a",
+    "gpa": 2.77,
+    "tepitechScore": 930,
+    "universities": [
+      "The Hague University of Applied Sciences", "Jönköping University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "galleg_a",
+    "gpa": 2.58,
+    "tepitechScore": 900,
+    "universities": [
+      "The Hague University of Applied Sciences", "University of California, Berkeley (Entrepreneurship course)"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "cache-_s",
+    "gpa": 1.81,
+    "tepitechScore": 850,
+    "universities": [
+      "Tongji University", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "chazot_a",
+    "gpa": 1.92,
+    "tepitechScore": 800,
+    "universities": [
+      "Tongji University", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "roussi_m",
+    "gpa": 1.9,
+    "tepitechScore": 900,
+    "universities": [
+      "Beijing Jiaotong University", "Tongji University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bourse_a",
+    "gpa": 2.47,
+    "tepitechScore": 620,
+    "universities": [
+      "Tsinghua university", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "dallar_h",
+    "gpa": 3.31,
+    "tepitechScore": 795,
+    "universities": [
+      "Université Concordia", "Roskilde University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "vaugie_g",
+    "gpa": 2.8,
+    "tepitechScore": 940,
+    "universities": [
+      "Université Concordia", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "marten_m",
+    "gpa": 1.54,
+    "tepitechScore": 865,
+    "universities": [
+      "Université Concordia", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "ovejer_n",
+    "gpa": 3.12,
+    "tepitechScore": 685,
+    "universities": [
+      "Université du Québec à Rimouski", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "roulli_a",
+    "gpa": 2.7,
+    "tepitechScore": 810,
+    "universities": [
+      "Université du Québec à Rimouski", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "marrec_k",
+    "gpa": 3.63,
+    "tepitechScore": 795,
+    "universities": [
+      "Université Laval", "Dublin Institute of Technology"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "le-nei_g",
+    "gpa": 3.53,
+    "tepitechScore": 745,
+    "universities": [
+      "Université Laval", "Dublin Institute of Technology"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "pasqui_m",
+    "gpa": 3.46,
+    "tepitechScore": 935,
+    "universities": [
+      "Université Laval", "Chung Ang University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "tawfik_e",
+    "gpa": 3.39,
+    "tepitechScore": 835,
+    "universities": [
+      "Université Laval", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "decouf_m",
+    "gpa": 3.24,
+    "tepitechScore": 750,
+    "universities": [
+      "Université Laval", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "armita_a",
+    "gpa": 3.14,
+    "tepitechScore": 785,
+    "universities": [
+      "Université Laval", "Dublin Institute of Technology"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "chesne_t",
+    "gpa": 2.98,
+    "tepitechScore": 750,
+    "universities": [
+      "Université Laval", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "rose_d",
+    "gpa": 2.1,
+    "tepitechScore": 895,
+    "universities": [
+      "Université Laval", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "despla_t",
+    "gpa": 2.54,
+    "tepitechScore": 790,
+    "universities": [
+      "Université Laval", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "soler_p",
+    "gpa": 2.89,
+    "tepitechScore": 750,
+    "universities": [
+      "Université Laval", "Université du Québec à Rimouski"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "pigeon_v",
+    "gpa": 3.4,
+    "tepitechScore": 845,
+    "universities": [
+      "Université Laval", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "mar_b",
+    "gpa": 3.34,
+    "tepitechScore": 825,
+    "universities": [
+      "Université Laval", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "feldma_a",
+    "gpa": 3.1,
+    "tepitechScore": 775,
+    "universities": [
+      "Université Laval", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "lauret_s",
+    "gpa": 2.5,
+    "tepitechScore": 875,
+    "universities": [
+      "Université Laval", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "noeldu_b",
+    "gpa": 2.93,
+    "tepitechScore": 935,
+    "universities": [
+      "Université Laval", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "denel-_l",
+    "gpa": 1.8,
+    "tepitechScore": 885,
+    "universities": [
+      "Universiti Kuala Lumpur", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "cholet_v",
+    "gpa": 1.71,
+    "tepitechScore": 870,
+    "universities": [
+      "Universiti Kuala Lumpur", "Australian Catholic University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "ramage_v",
+    "gpa": 3.75,
+    "tepitechScore": 750,
+    "universities": [
+      "University of California, Berkeley (Entrepreneurship course)", "Keimyung University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "adami_s",
+    "gpa": 3.64,
+    "tepitechScore": 800,
+    "universities": [
+      "University of California, Berkeley (Entrepreneurship course)", "Hong Kong University of Science and Technology"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "hennuy_w",
+    "gpa": 3.41,
+    "tepitechScore": 805,
+    "universities": [
+      "California State University, Long Beach", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "boguta_m",
+    "gpa": 3.11,
+    "tepitechScore": 870,
+    "universities": [
+      "University of California, Berkeley (Entrepreneurship course)", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bolvy_a",
+    "gpa": 3.77,
+    "tepitechScore": 910,
+    "universities": [
+      "University of California, Berkeley (Summer Session possible après CSULB)", "California State University, Long Beach"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "deprez_t",
+    "gpa": 3.5,
+    "tepitechScore": 770,
+    "universities": [
+      "University of California, Berkeley (Summer Session possible après CSULB)", "California State University, Long Beach"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "charvo_a",
+    "gpa": 2.83,
+    "tepitechScore": 910,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "long_y",
+    "gpa": 2.93,
+    "tepitechScore": 865,
+    "universities": [
+      "University of California, San Diego", "University of California, Berkeley (Summer Session possible après CSULB)"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "sangoi_l",
+    "gpa": 2.37,
+    "tepitechScore": 675,
+    "universities": [
+      "University of California, San Diego", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "girod_s",
+    "gpa": 2.73,
+    "tepitechScore": 805,
+    "universities": [
+      "ZHAW - Zurich University of Applied Sciences", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "nouts_h",
+    "gpa": 2.02,
+    "tepitechScore": 855,
+    "universities": [
+      "ZHAW - Zurich University of Applied Sciences", "Griffith Dublin College"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "menigo_m",
+    "gpa": 3.71,
+    "tepitechScore": 885,
+    "universities": [
+      "California State University, San Marcos", "Brockport College, State University of New York"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "gouy_e",
+    "gpa": 3.13,
+    "tepitechScore": 835,
+    "universities": [
+      "California State University, San Marcos", "California State University, Long Beach"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "ribeir_b",
+    "gpa": 2.56,
+    "tepitechScore": 830,
+    "universities": [
+      "", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "ravane_a",
+    "gpa": 2.45,
+    "tepitechScore": 810,
+    "universities": [
+      "Kent University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "potier_v",
+    "gpa": 2.1,
+    "tepitechScore": 840,
+    "universities": [
+      "Kent University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "chahi_y",
+    "gpa": 2.3,
+    "tepitechScore": 775,
+    "universities": [
+      "Université Laval", "Brockport College, State University of New York"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "delafo_q",
+    "gpa": 1.1,
+    "tepitechScore": 745,
+    "universities": [
+      "Ahlia University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "cesar_a",
+    "gpa": 2.09,
+    "tepitechScore": 845,
+    "universities": [
+      "Kent University", "Dublin City University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "ghukas_g",
+    "gpa": 3.6,
+    "tepitechScore": 740,
+    "universities": [
+      "ZHAW - Zurich University of Applied Sciences", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "carens_p",
+    "gpa": 2.18,
+    "tepitechScore": 905,
+    "universities": [
+      "Université du Québec à Rimouski", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "rivema_l",
+    "gpa": 1.37,
+    "tepitechScore": 790,
+    "universities": [
+      "Keimyung University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "vincen_o",
+    "gpa": 1.7,
+    "tepitechScore": 745,
+    "universities": [
+      "Université du Québec à Rimouski", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "dupoug_h",
+    "gpa": 2.26,
+    "tepitechScore": 720,
+    "universities": [
+      "Roskilde University", "Université Laval"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "stien_j",
+    "gpa": 2.48,
+    "tepitechScore": 645,
+    "universities": [
+      "Dublin Institute of Technology", "Jönköping University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "calist_l",
+    "gpa": 2.32,
+    "tepitechScore": 810,
+    "universities": [
+      "Kent University", "Ahlia University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bertin_f",
+    "gpa": 2.8,
+    "tepitechScore": 700,
+    "universities": [
+      "California State University, San Marcos", "California State University, Long Beach"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "destre_a",
+    "gpa": 2.75,
+    "tepitechScore": 785,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "joly_i",
+    "gpa": 2.53,
+    "tepitechScore": 720,
+    "universities": [
+      "California State University, San Marcos", "The Bonch-Bruevich St Petersburg State University of Telecommunications"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "limagn_v",
+    "gpa": 1.69,
+    "tepitechScore": 670,
+    "universities": [
+      "Ahlia University", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "labess_l",
+    "gpa": 1.98,
+    "tepitechScore": 795,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "cherri_g",
+    "gpa": 2.59,
+    "tepitechScore": 750,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "ramage_v",
+    "gpa": 2.5,
+    "tepitechScore": 745,
+    "universities": [
+      "Chung Ang University", "Kent University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "vache_e",
+    "gpa": 1.5,
+    "tepitechScore": 720,
+    "universities": [
+      "Stockholm University", "Université du Québec à Rimouski"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "george_l",
+    "gpa": 1.55,
+    "tepitechScore": 915,
+    "universities": [
+      "The Hague University of Applied Sciences", "Cologne University of Applied Sciences"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "fairfo_l",
+    "gpa": 2.18,
+    "tepitechScore": 800,
+    "universities": [
+      "Université Laval", "Université du Québec à Rimouski"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "girard_s",
+    "gpa": 2.54,
+    "tepitechScore": 900,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "audibe_l",
+    "gpa": 2.64,
+    "tepitechScore": 830,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "goury_c",
+    "gpa": 1.85,
+    "tepitechScore": 825,
+    "universities": [
+      "Tecnológico de Monterrey", "Australian Catholic University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "camill_n",
+    "gpa": 2.97,
+    "tepitechScore": 690,
+    "universities": [
+      "California State University, San Marcos", "Thammasat University"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bousca_a",
+    "gpa": 2.43,
+    "tepitechScore": 730,
+    "universities": [
+      "Université Laval", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "garcia_t",
+    "gpa": 2.96,
+    "tepitechScore": 845,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "heitzl_s",
+    "gpa": 2.46,
+    "tepitechScore": 825,
+    "universities": [
+      "California State University, Long Beach", "California State University, San Marcos"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "moran-_d",
+    "gpa": 3.56,
+    "tepitechScore": 905,
+    "universities": [
+      "", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "bourre_l",
+    "gpa": 1.6,
+    "tepitechScore": 765,
+    "universities": [
+      "California State University, San Marcos", "Université du Québec à Rimouski"
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "kerdil_r",
+    "gpa": 3.22,
+    "tepitechScore": null,
+    "universities": [
+      "Université Laval", ""
+    ],
+    "toeflScore": null
+  },
+  {
+    "login": "picque_y",
+    "gpa": 2.37,
+    "tepitechScore": 680,
+    "universities": [
+      "California State University, San Marcos", "Keimyung University"
+    ],
+    "toeflScore": null
+  }
+]
