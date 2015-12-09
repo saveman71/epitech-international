@@ -1,6 +1,14 @@
 #!/bin/env node
 'use strict';
 
+/**
+ * WARNING
+ *
+ *  Every time you run this, you will create new universities with new ids. Will break everything !
+ *
+ * WARNING
+ */
+
 require('../app');
 
 var async = require('async');
