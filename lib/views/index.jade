@@ -12,14 +12,14 @@ block layout
             table.table.sortable-theme-bootstrap(data-sortable="true")
               thead
                 tr
-                  th Login
-                  th GPA
-                  th Tepitech
+                  th(data-sortable-type="alpha") Login
+                  th(data-sortable-type="numeric") GPA
+                  th(data-sortable-type="numeric") Tepitech
                   th(title="The GPA is worth 65% of the final score, the Tepitech is worth 15%. The remaining 20% are givent by your local manager. Here we took the score on 80% and put it back to 100%.") Score %
-                  th Toefl
-                  th Wish 1
-                  th Wish 2
-                  th Wish 3
+                  th(data-sortable-type="numeric") Toefl
+                  th(data-sortable-type="alpha") Wish 1
+                  th(data-sortable-type="alpha") Wish 2
+                  th(data-sortable-type="alpha") Wish 3
               for user in users
                 tr
                   td=user.login
