@@ -3,12 +3,11 @@ extend base
 block layout
   .container-fluid
     .row
-
       .col-sm-12
         .panel.panel-default
           .panel-heading.clearfix
-            h1.pull-left Data
-            a.btn.btn-success.pull-right(href='/profile', style="margin-top: 28px;") Edit profile
+            h1.pull-left Epitech international wishes
+            a.btn.btn-success.pull-right(href='/profile', style="margin-top: 20px;") Edit my profile
           .panel-body
             table.table.sortable-theme-bootstrap(data-sortable="true")
               thead
@@ -16,6 +15,7 @@ block layout
                   th Login
                   th GPA
                   th Tepitech
+                  th(title="The GPA is worth 65% of the final score, the Tepitech is worth 15%. The remaining 20% are givent by your local manager. Here we took the score on 80% and put it back to 100%.") Score %
                   th Toefl
                   th Wish 1
                   th Wish 2
@@ -25,6 +25,9 @@ block layout
                   td=user.login
                   td=user.gpa
                   td=user.tepitechScore
+                  - var scorePercent = (((user.gpa / 4 * 65) + (user.tepitechScore / 990 * 15)) / 80) * 100
+                  - scorePercent = scorePercent.toFixed(1);
+                  td=scorePercent + '%'
                   td=user.toeflScore
                   if user.universities && user.universities[0]
                     td=user.universities[0].name
