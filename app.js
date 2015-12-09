@@ -13,6 +13,8 @@ var noWWW = require('./lib/middlewares/no-www.js');
 
 var app = module.exports = express();
 
+app.enable('trust proxy');
+
 require('./config/load-app.js')(app);
 
 mongoose.connect(app.get('mongoUrl'));
