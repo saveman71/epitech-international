@@ -7,7 +7,9 @@ block layout
         .panel.panel-default
           .panel-heading.clearfix
             h1.pull-left Epitech international wishes
-            a.btn.btn-success.pull-right(href='/profile', style="margin-top: 20px;") Edit my profile
+            .btn-group.pull-right(style="margin-top: 20px;")
+              a.btn.btn-default(href='#me') Jump to me
+              a.btn.btn-success(href='/profile') Edit my profile
           .panel-body
             table.table.sortable-theme-bootstrap(data-sortable="true")
               thead
@@ -20,25 +22,26 @@ block layout
                   th(data-sortable-type="alpha") Wish 1
                   th(data-sortable-type="alpha") Wish 2
                   th(data-sortable-type="alpha") Wish 3
-              for user in users
-                tr
-                  td=user.login
-                  td=user.gpa
-                  td=user.tepitechScore
-                  - var scorePercent = (((user.gpa / 4 * 65) + (user.tepitechScore / 990 * 15)) / 80) * 100
+              for item in users
+                - idName = (user.login == item.login) ? 'me' : ''
+                tr(id=idName)
+                  td=item.login
+                  td=item.gpa
+                  td=item.tepitechScore
+                  - var scorePercent = (((item.gpa / 4 * 65) + (item.tepitechScore / 990 * 15)) / 80) * 100
                   - scorePercent = scorePercent.toFixed(1);
                   td=scorePercent + '%'
-                  td=user.toeflScore
-                  if user.universities && user.universities[0]
-                    td=user.universities[0].name
+                  td=item.toeflScore
+                  if item.universities && item.universities[0]
+                    td=item.universities[0].name
                   else
                     td
-                  if user.universities && user.universities[1]
-                    td=user.universities[1].name
+                  if item.universities && item.universities[1]
+                    td=item.universities[1].name
                   else
                     td
-                  if user.universities && user.universities[2]
-                    td=user.universities[2].name
+                  if item.universities && item.universities[2]
+                    td=item.universities[2].name
                   else
                     td
 
