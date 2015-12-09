@@ -14,8 +14,8 @@ var strictThrottler = throttle({
 });
 
 module.exports = function(app) {
-  app.get('/', middlewares.isAuth, routes.index.get);
-  app.get('/profile', middlewares.isAuth, routes.profile.get);
+  app.get('/', middlewares.isAuth, middlewares.tracker, routes.index.get);
+  app.get('/profile', middlewares.isAuth, middlewares.tracker, routes.profile.get);
   app.post('/profile', middlewares.isAuth, routes.profile.post);
 
   app.get('/login', routes.login.get);

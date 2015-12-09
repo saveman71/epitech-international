@@ -22,6 +22,9 @@ var mailgunDomain = process.env.MAILGUN_DOMAIN;
 
 var appUrl = process.env.APP_URL;
 
+// Mixpanel
+var mixpanelToken = process.env.MIXPANEL_TOKEN;
+
 if (!appUrl) {
   throw (new Error('APP_URL is a mandatory env var'));
 }
@@ -36,5 +39,7 @@ module.exports = {
   mailgunApiKey: mailgunApiKey,
   mailgunDomain: mailgunDomain,
   // App url
-  appUrl: appUrl
+  appUrl: appUrl,
+  // Mixpanel
+  mixpanelToken: mixpanelToken
 };
